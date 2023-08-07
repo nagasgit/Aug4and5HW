@@ -1,4 +1,4 @@
-package Aug04th5th_HW;
+package Aug04th5th_HW.Aug4and5HW;
 
 import org.junit.Assert;
 import org.junit.Test;
